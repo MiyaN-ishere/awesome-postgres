@@ -85,6 +85,7 @@
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
+* [Intellrise](https://intellrise.com) - Web app to query PostgreSQL in plain English, showing the SQL it generated next to the resulting chart. Also connects MySQL, BigQuery, Snowflake, Databricks and Google Sheets (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 * [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
